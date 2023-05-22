@@ -1,13 +1,13 @@
-Module 1: Intro to MLOps course notes
+# Module 1: Intro to MLOps course notes
 
-MLOps Zoomcamp Introduction
+### MLOps Zoomcamp Introduction
 
 - MLOps lifecycle (Data collection, Experiment tracking, ML pipelines (Orchestration), Deployment, Monitoring)
 - Environment setup
 - Course overview
 - MLOps maturity model (No MLOps, DevOps but no MLOps, Automated training, automated deployment, fullly automated MLOps)
 
-Environment setup instructions:
+### Environment setup instructions:
 
 1) AWS EC2 instance
 2) Connect EC2 to local machine
@@ -21,7 +21,7 @@ Environment setup instructions:
 10) Open jupyter notebook on remote machine
 
 
-Local environment setup:
+### Local environment setup:
 
 1) Clone the remote github repo 
 2) Create Virtual environment using pip/conda
