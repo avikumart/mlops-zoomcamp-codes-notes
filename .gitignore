@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# other project files and env dir
+mlopscamp
+yellow_tripdata_2022-01.parquet
+yellow_tripdata_2022-02.parquet
+
 # Distribution / packaging
 .Python
 build/
