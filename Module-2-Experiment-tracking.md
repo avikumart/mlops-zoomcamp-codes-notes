@@ -54,7 +54,7 @@ staging —> prod —> archive
 
 1) No tracking server, params/metrics in local filesys and models in local filesys
 2) Local server, params/metrics in backend db, artifacts in local filesys
-3) Remote server, params/metrics in backend db, artififacts in S3 buckets
+3) Remote server, params/metrics in backend db, artifacts in S3 buckets
 
 
 **Local server experiment tracking:**
