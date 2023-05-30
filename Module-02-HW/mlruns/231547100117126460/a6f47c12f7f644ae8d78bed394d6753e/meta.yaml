@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/231547100117126460/a6f47c12f7f644ae8d78bed394d6753e/artifacts
+end_time: 1685368593094
+entry_point_name: ''
+experiment_id: '231547100117126460'
+lifecycle_stage: active
+run_id: a6f47c12f7f644ae8d78bed394d6753e
+run_name: silent-goose-197
+run_uuid: a6f47c12f7f644ae8d78bed394d6753e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685368579314
+status: 3
+tags: []
+user_id: Avi

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/231547100117126460/ac1705bb80224653a149205e232c82a7/artifacts
+end_time: 1685368641016
+entry_point_name: ''
+experiment_id: '231547100117126460'
+lifecycle_stage: active
+run_id: ac1705bb80224653a149205e232c82a7
+run_name: fortunate-gnu-36
+run_uuid: ac1705bb80224653a149205e232c82a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685368631369
+status: 3
+tags: []
+user_id: Avi

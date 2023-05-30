@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/127399482069530066/50f6b740620042268d2b720d24e6c1e0/artifacts
+end_time: 1685372937560
+entry_point_name: ''
+experiment_id: '127399482069530066'
+lifecycle_stage: active
+run_id: 50f6b740620042268d2b720d24e6c1e0
+run_name: indecisive-skunk-144
+run_uuid: 50f6b740620042268d2b720d24e6c1e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685372937460
+status: 4
+tags: []
+user_id: Avi

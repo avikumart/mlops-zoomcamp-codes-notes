@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/231547100117126460/373e3a7eb40446a0af7bf15074dbb367/artifacts
+end_time: 1685368613640
+entry_point_name: ''
+experiment_id: '231547100117126460'
+lifecycle_stage: active
+run_id: 373e3a7eb40446a0af7bf15074dbb367
+run_name: colorful-lamb-242
+run_uuid: 373e3a7eb40446a0af7bf15074dbb367
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685368602675
+status: 3
+tags: []
+user_id: Avi

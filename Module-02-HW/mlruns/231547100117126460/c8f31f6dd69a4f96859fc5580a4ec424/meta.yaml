@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/231547100117126460/c8f31f6dd69a4f96859fc5580a4ec424/artifacts
+end_time: 1685368553381
+entry_point_name: ''
+experiment_id: '231547100117126460'
+lifecycle_stage: active
+run_id: c8f31f6dd69a4f96859fc5580a4ec424
+run_name: marvelous-bug-551
+run_uuid: c8f31f6dd69a4f96859fc5580a4ec424
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685368542998
+status: 3
+tags: []
+user_id: Avi

@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/mlops-zoomcamp-codes-notes/mlruns/150209261958052289/35ccaebdf78f4994a3c6a544ff79544a/artifacts
+end_time: 1685360320741
+entry_point_name: ''
+experiment_id: '150209261958052289'
+lifecycle_stage: active
+run_id: 35ccaebdf78f4994a3c6a544ff79544a
+run_name: welcoming-hawk-547
+run_uuid: 35ccaebdf78f4994a3c6a544ff79544a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685360286047
+status: 3
+tags: []
+user_id: Avi
